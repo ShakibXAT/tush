@@ -3,8 +3,8 @@ import math;
 print("Hello World!");
 
 a=5;
-b=9;
+b=7;
 
-c=math.sqrt(a*a+b*b);
+c=a+b;
 
 print(c);
